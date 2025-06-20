@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.parent {
+    background-color: rgb(230 230 230);
+    overflow: hidden;
+    width: 100%;
+    padding: 10px;
+}
+
+h3 {
+    background-color: red;
+    float: left;
+    padding: 10px 0;
+    color: white;
+    width: 23%;
+    text-align: center;
+}
